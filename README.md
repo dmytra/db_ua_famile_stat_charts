@@ -1,4 +1,5 @@
 # db_ua_famile_stat_charts
+rerite source code: Qt-6.2.4 / charts / modeldata
  
  частотний анализ букв у  " Популярні призвища та імена України "
  
