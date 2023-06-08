@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>popularnist-prizvis_in_ua</file>
+        <file>man</file>
+        <file>sqlite.db</file>
+    </qresource>
+</RCC>
